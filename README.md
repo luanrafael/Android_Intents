@@ -20,3 +20,8 @@ exercicio.xls
 Se preferir pode baixar a pasta no seguinte link:
 
 https://dl.dropboxusercontent.com/u/48558636/exercicio.zip
+
+
+Obs: Eu ainda não consegui executar 2 intents que estão neste projeto e tem uma outra que não testei... 
+
+Portanto os exemplos INSTALL, SHORTCUT e CHM não estão funcionado.
